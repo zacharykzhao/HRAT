@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: soot-ifds
+Bundle-SymbolicName: heros
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: soot-ifds.jar,
+ guava-13.0.jar,
+ soot-trunk.jar
+Export-Package: heros,
+ heros.edgefunc,
+ heros.flowfunc,
+ heros.solver,
+ heros.template
+Import-Package: com.google.common.cache

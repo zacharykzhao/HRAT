@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PreprocessAPK.iml" filepath="$PROJECT_DIR$/PreprocessAPK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../heros/heros.iml" filepath="$PROJECT_DIR$/../heros/heros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot/soot.iml" filepath="$PROJECT_DIR$/../soot/soot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot-infoflow/soot-infoflow.iml" filepath="$PROJECT_DIR$/../soot-infoflow/soot-infoflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot-infoflow-android/soot-infoflow-android.iml" filepath="$PROJECT_DIR$/../soot-infoflow-android/soot-infoflow-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot-infoflow-summaries/soot-infoflow-summaries.iml" filepath="$PROJECT_DIR$/../soot-infoflow-summaries/soot-infoflow-summaries.iml" />
+    </modules>
+  </component>
+</project>
