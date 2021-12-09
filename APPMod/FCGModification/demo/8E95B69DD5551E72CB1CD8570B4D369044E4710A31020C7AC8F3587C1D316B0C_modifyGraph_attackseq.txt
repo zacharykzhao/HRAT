@@ -1,0 +1,1 @@
+delete_edge,:<AT_Novel119.T.MainActivity: android.view.View getContentView()> ==> <android.widget.TextView: void setPadding(int,int,int,int)> ==> <net.youmi.android.f: void a(java.lang.Throwable)>
