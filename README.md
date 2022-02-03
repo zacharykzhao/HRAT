@@ -8,7 +8,7 @@ Coming soon...
 If you end up building on this research or code as part of a project or publication, please include a reference to the ACM CCS paper:
 
 ```
-@inproceedings{zhao2011structural,
+@inproceedings{zhao2021structural,
 author = {Zhao, Kaifa and Zhou, Hao and Zhu, Yulin and Zhan, Xian and Zhou, Kai and Li, Jianfeng and Yu, Le and Yuan, Wei and Luo, Xiapu},
 title = {Structural Attack against Graph Based Android Malware Detection},
 year = {2021},
