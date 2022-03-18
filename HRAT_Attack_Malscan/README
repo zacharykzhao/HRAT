@@ -2,6 +2,7 @@ Please unzip constraint.zip file
 
 Please dowload training data and testing data from: 
   https://drive.google.com/drive/folders/1as4e4s4EPWMKpe1Fz3OUgWm1iRah7IML?usp=sharing
+  OR https://bit.ly/HRAT_MalscanData 
 
 After installing *requirements.txt*, you can run *main_attack.py* to test HRAT.
 
