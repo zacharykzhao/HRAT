@@ -1,7 +1,7 @@
 Please unzip constraint.zip file 
 
 Please dowload training data and testing data from: 
-  https://connectpolyu-my.sharepoint.com/:f:/g/personal/19044075r_connect_polyu_hk/Ek8-WSVb1yZMoOD0CoEioCcBMnc6VoZM8DAGT5fhz3eJMQ?e=eAPPwr 
+  https://drive.google.com/drive/folders/1as4e4s4EPWMKpe1Fz3OUgWm1iRah7IML?usp=sharing
 
 After installing *requirements.txt*, you can run *main_attack.py* to test HRAT.
 
