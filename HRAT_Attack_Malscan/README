@@ -4,7 +4,7 @@ Please dowload training data and testing data from:
   https://drive.google.com/drive/folders/1as4e4s4EPWMKpe1Fz3OUgWm1iRah7IML?usp=sharing
   OR https://bit.ly/HRAT_MalscanData 
 
-After installing *requirements.txt*, you can run *main_attack.py* to test HRAT.
+After installing *requirements.txt*,*main_attack.py* can be used to evaluate HRAT.
 
 For graph extraction, constraints extraction, node list extraction please refer to java code in main branch.
 For feature extraction for Malscan, please refer to Malscan official git repositories: https://github.com/malscan-android/MalScan .
