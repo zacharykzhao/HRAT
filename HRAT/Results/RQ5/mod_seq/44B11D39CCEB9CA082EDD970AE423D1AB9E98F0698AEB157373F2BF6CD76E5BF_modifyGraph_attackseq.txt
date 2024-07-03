@@ -1,0 +1,1 @@
+delete_node,:<com.liziyan.threesameline.GameView: void run()>

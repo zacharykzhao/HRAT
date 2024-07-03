@@ -1,0 +1,1 @@
+add_edge,:<net.cm3d.android.wordexpress.gaokao.engl: java.lang.String getEngl(int)> ==> <net.cm3d.android.wordexpress.gaokao.WordList: void ChangeLandScape()>

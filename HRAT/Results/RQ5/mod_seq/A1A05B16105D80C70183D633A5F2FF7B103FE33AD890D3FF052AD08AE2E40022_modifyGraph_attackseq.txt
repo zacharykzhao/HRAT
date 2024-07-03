@@ -1,0 +1,1 @@
+delete_edge,:<moc.sp.pintu.black.PinTuActivity: void start()> ==> <android.view.View: void invalidate()> ==> <net.youmi.android.f: void a(java.lang.Throwable)>

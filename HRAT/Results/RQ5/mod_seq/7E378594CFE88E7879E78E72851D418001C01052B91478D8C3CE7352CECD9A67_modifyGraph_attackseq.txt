@@ -1,0 +1,1 @@
+add_edge,:<net.youmi.android.g: void a(java.lang.Throwable)> ==> <com.lemon.MusicService: void onStart(android.content.Intent,int)>

@@ -1,0 +1,1 @@
+add_node,:<com.inauinterpopo.Sprite: int getSavedId()> ==> 0

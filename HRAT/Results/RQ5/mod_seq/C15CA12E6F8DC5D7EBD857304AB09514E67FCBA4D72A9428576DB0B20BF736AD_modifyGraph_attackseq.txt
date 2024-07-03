@@ -1,0 +1,1 @@
+add_edge,:<com.sunfred.applock.MediaFile: void addFileType(java.lang.String,int,java.lang.String)> ==> <com.sunfred.applock.AppLockActivity: void onResume()>

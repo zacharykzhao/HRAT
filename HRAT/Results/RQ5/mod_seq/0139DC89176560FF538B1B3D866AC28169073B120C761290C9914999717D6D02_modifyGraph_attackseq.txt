@@ -1,0 +1,1 @@
+add_edge,:<com.ibrahimsoft.teasingmath.MainLogic: boolean getRandomBoolean()> ==> <com.ibrahimsoft.teasingmath.TwoPlayersLogic: void showDialogAfterAnswerByUser(int,boolean)>

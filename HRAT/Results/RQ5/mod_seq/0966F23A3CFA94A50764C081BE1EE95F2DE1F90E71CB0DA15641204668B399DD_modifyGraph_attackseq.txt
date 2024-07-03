@@ -1,0 +1,1 @@
+add_node,:<stealth.android.PunchingBagZ.IdentityActivity: android.widget.RelativeLayout access$7(stealth.android.PunchingBagZ.IdentityActivity)> ==> 0
