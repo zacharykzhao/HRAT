@@ -1,1 +1,0 @@
-<com.example.androidtest.Sinks: void sinkTest(double,double)> -> _SINK_ 

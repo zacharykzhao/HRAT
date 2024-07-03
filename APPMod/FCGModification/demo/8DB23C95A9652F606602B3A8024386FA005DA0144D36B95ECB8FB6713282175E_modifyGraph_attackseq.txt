@@ -1,3 +1,0 @@
-add_edge,:<andjoid.hdzg.UseSkillView: void initBitmap(android.content.res.Resources)> ==> <net.youmi.android.cf: void e()>
-add_edge,:<net.youmi.android.cf: void e()> ==> <andjoid.hdzg.WuJiangView: void initBitmap(android.content.res.Resources)>
-add_edge,:<andjoid.hdzg.WuJiangView: void initBitmap(android.content.res.Resources)> ==> <net.youmi.android.cf: void e()>

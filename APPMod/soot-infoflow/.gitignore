@@ -1,8 +1,0 @@
-*.iml
-bin
-target
-/JimpleFiles
-/sootOutput
-/ant.settings
-reports
-/build
