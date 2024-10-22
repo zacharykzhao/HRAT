@@ -1,7 +1,6 @@
 # HRAT
-Structural Attack against Graph-based Android Malware Detection System
+[Structural Attack against Graph-based Android Malware Detection System](https://dl.acm.org/doi/abs/10.1145/3460120.3485387)
 
-Coming soon...
 
 
 
@@ -51,9 +50,4 @@ Because our APK parsing process (extracting function call graphs, node lists and
 
   + The Java source code of APK preprocess can be found under: */APPMod/PreprocessAPK*
 
-  + 
-
-  
-
-+ 
 
