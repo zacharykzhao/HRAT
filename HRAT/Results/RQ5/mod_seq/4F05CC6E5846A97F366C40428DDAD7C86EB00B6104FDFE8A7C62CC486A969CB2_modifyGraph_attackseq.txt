@@ -1,1 +1,0 @@
-add_edge,:<com.dis.tools.ExitApp: com.dis.tools.ExitApp getInstance()> ==> <com.dis.counter.main: boolean onKeyDown(int,android.view.KeyEvent)>

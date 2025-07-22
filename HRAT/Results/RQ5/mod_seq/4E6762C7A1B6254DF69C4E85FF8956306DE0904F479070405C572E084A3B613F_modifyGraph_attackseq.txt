@@ -1,1 +1,0 @@
-add_edge,:<com.airpush.android.c: void a()> ==> <com.wimolife.android.rollingwood.view.TopRankActivity: void onClick(android.view.View)>

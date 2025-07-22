@@ -1,1 +1,0 @@
-add_node,:<com.wallpaper.transwallpaper1.TransWallPaper1: int access$0(com.wallpaper.transwallpaper1.TransWallPaper1)> ==> 0

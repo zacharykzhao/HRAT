@@ -1,1 +1,0 @@
-add_node,:<com.livegame.wallpaperxingganmeinv2.MainActivity: void onDestroy()> ==> 0

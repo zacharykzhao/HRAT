@@ -1,1 +1,0 @@
-add_edge,:<com.waps.AppConnect: com.waps.AppConnect getInstance(android.content.Context)> ==> <com.waps.OffersWebView: boolean onKeyDown(int,android.view.KeyEvent)>

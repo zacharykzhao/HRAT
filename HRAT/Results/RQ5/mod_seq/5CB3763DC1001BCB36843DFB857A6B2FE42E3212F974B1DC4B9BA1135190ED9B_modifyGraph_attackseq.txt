@@ -1,1 +1,0 @@
-delete_node,:<bm: void p(int)>

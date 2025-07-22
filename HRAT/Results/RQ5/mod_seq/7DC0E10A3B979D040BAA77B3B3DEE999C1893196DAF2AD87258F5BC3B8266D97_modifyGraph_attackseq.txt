@@ -1,1 +1,0 @@
-add_edge,:<lijun.util.SettingBean: java.lang.String getSetdetail()> ==> <lijun.wangq.ViewImage: void onClick(android.view.View)>

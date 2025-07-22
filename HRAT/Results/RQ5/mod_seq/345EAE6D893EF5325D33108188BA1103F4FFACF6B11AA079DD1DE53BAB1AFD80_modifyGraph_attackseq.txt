@@ -1,1 +1,0 @@
-add_edge,:<kk.link.LinkActivity: android.graphics.Rect a(int,int,int,int)> ==> <kk.link.LinkActivity: void onDestroy()>
